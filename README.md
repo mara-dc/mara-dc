@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm learning Python and SQL. I'm putting all my exercises here for ✨*organization*✨
+
 <!--
 **mara-dc/mara-dc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
